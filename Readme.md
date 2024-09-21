@@ -63,4 +63,3 @@ Join us in analyzing and understanding the impact of climate change. Let's work 
 
 Explore the Climate Insights Dataset and start your journey today! 🌍🔍💡
 
-Feel free to modify and customize this README file as per your requirements and style preferences.
